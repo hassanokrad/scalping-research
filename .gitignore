@@ -18,3 +18,7 @@ Thumbs.db
 
 # Local-only session transcript (never commit)
 SESSION.md
+
+# Generated HTML reports (regenerate with: node src/visual-report.js or node src/interactive-sim.js)
+report.html
+simulator.html
