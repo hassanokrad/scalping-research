@@ -1,0 +1,13 @@
+{
+  "name": "scalping-analyzer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Move-frequency analyzer for Binance scalping pre-study",
+  "scripts": {
+    "start": "node src/analyze.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
